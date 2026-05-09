@@ -1,0 +1,151 @@
+[
+  {
+    "id": "digital-nomad",
+    "name": "Digital Nomad Visa",
+    "italian_name": "Visto per Lavoratori da Remoto",
+    "status_for_you": "best-option",
+    "status_label": "✅ Your Best Path",
+    "duration": "1 year, renewable annually",
+    "income_required": "€24,789/year minimum",
+    "your_income": "$200,000/year — well above threshold",
+    "income_type": "Remote employment income for a foreign (non-Italian) employer",
+    "requirements": [
+      "Remote employment contract or freelance/business with non-Italian clients",
+      "Income proof ≥€24,789/year",
+      "Bachelor's degree OR professional government license OR 5+ years relevant experience",
+      "Health insurance covering minimum €30,000 (approximately $35,000 USD)",
+      "Housing lease or contract in Italy in your name",
+      "Employer letter confirming no immigration law violations",
+      "Clean criminal background (FBI background check apostilled)"
+    ],
+    "apply_at": "Italian Consulate in your jurisdiction (before travel)",
+    "processing_time": "60–90 days typically",
+    "family": "Spouse and children under 18 can be sponsored after you arrive",
+    "path_to_residency": "After 5 years of legal residence, eligible to apply for permanent residence. After 10 years, citizenship.",
+    "tax_implications": "As a tax resident, you'd file Italian taxes on worldwide income. Consult a cross-border US-Italy tax specialist — the US-Italy tax treaty prevents double taxation.",
+    "airbnb_compatibility": "✅ As a registered tax resident, you can operate Airbnb under the cedolare secca 21% flat tax regime.",
+    "pros": [
+      "Matches your employment profile perfectly",
+      "Only 1-year initial commitment — test Italy before committing",
+      "Allows legal Italian residency",
+      "Lower income threshold than Elective Residency",
+      "Renewable annually as long as employment continues",
+      "Family can join"
+    ],
+    "cons": [
+      "Must maintain remote foreign-employer income to renew",
+      "Requires Italian health insurance (~$500–1,500/year)",
+      "Must file Italian taxes (requires cross-border tax planning)",
+      "If you change jobs to an Italian employer, visa becomes void"
+    ],
+    "official_link": "https://consnewyork.esteri.it/en/servizi-consolari-e-visti/servizi-per-il-cittadino-straniero/visti/visas-to-enter-italy/digital-nomad-remote-worker-visa/"
+  },
+  {
+    "id": "schengen-tourist",
+    "name": "Schengen 90-Day Rule",
+    "italian_name": "Ingresso senza visto (Schengen)",
+    "status_for_you": "available-now",
+    "status_label": "✅ Available Now — No Action Needed",
+    "duration": "90 days within any 180-day rolling window",
+    "income_required": "None",
+    "your_income": "N/A",
+    "income_type": "N/A",
+    "requirements": [
+      "US passport valid ≥3 months beyond planned stay",
+      "Sufficient funds (no specific threshold but customs may ask)",
+      "Return/onward ticket"
+    ],
+    "apply_at": "No application needed — enter at border",
+    "processing_time": "Immediate",
+    "family": "Family members apply individually on their US passports",
+    "path_to_residency": "This does NOT lead to residency — only visa-free tourism",
+    "tax_implications": "As a non-resident, you owe Italian tax only on Italian-sourced income (i.e., your Airbnb rental income). This is auto-withheld by Airbnb at 21%.",
+    "airbnb_compatibility": "✅ Non-residents can legally operate Airbnb in Italy. CIN registration is required regardless of residency status.",
+    "pros": [
+      "Available immediately — use for scouting trips",
+      "No paperwork, no application, no fees",
+      "Can purchase property in Italy with no visa",
+      "90 days is enough for 2–3 long trips per year"
+    ],
+    "cons": [
+      "Cannot legally reside in Italy beyond 90 days in any 180-day period",
+      "Cannot work, even remotely, on a tourist entry",
+      "Property must be managed remotely or via property manager",
+      "No path to residency"
+    ],
+    "note": "Use the Schengen days calculator at visa-calculator.com to track your remaining days. Overstaying can result in a 1–5 year Schengen ban.",
+    "official_link": "https://home-affairs.ec.europa.eu/policies/schengen/visa-policy_en"
+  },
+  {
+    "id": "elective-residency",
+    "name": "Elective Residency Visa",
+    "italian_name": "Visto per Residenza Elettiva",
+    "status_for_you": "future-option",
+    "status_label": "⏳ Future Option (Not Yet Viable)",
+    "duration": "1 year, renewable — leads to permanent residency after 5 years",
+    "income_required": "€31,000/year minimum (single applicant)",
+    "your_income": "Income MUST be passive — pensions, dividends, rental income, royalties",
+    "income_type": "PASSIVE income only — employment salary does NOT qualify",
+    "requirements": [
+      "Passive income ≥€31,000/year (employment income excluded)",
+      "Proof of stable long-term income (rental, investment, pension)",
+      "Italian property or 1-year rental contract",
+      "Italian health insurance (€30,000 coverage minimum)",
+      "FBI background check apostilled",
+      "No intention to work in Italy"
+    ],
+    "apply_at": "Italian Consulate in your jurisdiction",
+    "processing_time": "60–120 days",
+    "family": "Spouse/partner adds €11,000 to income requirement",
+    "path_to_residency": "Direct path to permanent residency after 5 years, then citizenship after 10 years",
+    "tax_implications": "Full Italian tax resident — must declare worldwide income. The 7% flat tax regime for retirees could apply IF income is from pension/passive sources.",
+    "airbnb_compatibility": "✅ As an Italian tax resident with this visa, you can legally operate Airbnb.",
+    "pros": [
+      "Strongest path to permanent residency",
+      "No requirement to work at all",
+      "Opens the door to the 7% flat tax regime",
+      "Best visa for early retirees or those with rental income"
+    ],
+    "cons": [
+      "Your current employment income does NOT qualify",
+      "Only viable once you have €31,000+/year in passive income",
+      "Strategy: build Airbnb income over time, then transition to this visa",
+      "May need 3–5 years of Airbnb + investment income before qualifying"
+    ],
+    "strategy": "LONG-TERM PLAN: Once your Italian Airbnb + US investment/dividend income exceeds €31,000/year, you could transition from Digital Nomad Visa to Elective Residency. This would make permanent Italy residency possible even without employment.",
+    "official_link": "https://theitalianlawyer.com/italy-elective-residence-visa/"
+  },
+  {
+    "id": "investor-visa",
+    "name": "Investor Visa (Golden Visa)",
+    "italian_name": "Visto per Investitori",
+    "status_for_you": "not-viable",
+    "status_label": "❌ Not Viable (Insufficient Capital)",
+    "duration": "2 years initial, extendable 3 years",
+    "income_required": "N/A — capital investment required",
+    "your_income": "N/A",
+    "income_type": "Investment capital",
+    "requirements": [
+      "€250,000 investment in Italian innovative startup, OR",
+      "€500,000 investment in Italian company, OR",
+      "€1,000,000 philanthropic donation, OR",
+      "€2,000,000 Italian government bonds"
+    ],
+    "apply_at": "Italian Ministry of Economic Development (pre-clearance required)",
+    "processing_time": "3–6 months",
+    "family": "Spouse and dependent children included",
+    "path_to_residency": "Yes — can lead to permanent residency",
+    "tax_implications": "Variable depending on tax residency election",
+    "airbnb_compatibility": "✅",
+    "pros": [
+      "No physical residence requirement",
+      "Full Schengen travel rights",
+      "Path to citizenship"
+    ],
+    "cons": [
+      "€250,000 minimum investment — far exceeds current savings (~$100K)",
+      "Not viable without significantly more capital"
+    ],
+    "official_link": "https://investorvisa.mise.gov.it/index.php/en/"
+  }
+]
